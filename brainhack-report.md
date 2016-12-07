@@ -38,7 +38,7 @@ contrib: YOH and MVdOC performed the project and wrote the report.
 
 bibliography: brainhack-report
 
-gigascience-ref: REFXXX
+gigascience-ref: \href{http://gigadb.org/dataset/100227}{doi:10.5524/100227}
 ...
 
 #Introduction
